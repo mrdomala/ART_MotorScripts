@@ -1,0 +1,27 @@
+2022-06-21 15:20:45,951  INFO [main] CucumberRunner:181 - Browser opened sucessfully
+2022-06-21 15:21:13,712  INFO [main] CucumberRunner:193 - User in home page
+2022-06-21 15:21:16,998  INFO [main] CucumberRunner:202 - Clicked on login!
+2022-06-21 15:21:19,175  INFO [main] CucumberRunner:209 - Clicked on login inside the frame!
+2022-06-21 15:21:22,357  INFO [main] CucumberRunner:219 - User entered the username as Shaik
+2022-06-21 15:21:25,618  INFO [main] CucumberRunner:229 - User entered the password as Test123456
+2022-06-21 15:21:28,856  INFO [main] CucumberRunner:243 - in loop OTP0
+2022-06-21 15:21:35,978  INFO [main] CucumberRunner:246 - User entered the static otp_0 text block as : 1
+2022-06-21 15:21:35,980  INFO [main] CucumberRunner:254 - in loop OTP1
+2022-06-21 15:21:36,078  INFO [main] CucumberRunner:256 - User entered the static otp_1 text block as : 1
+2022-06-21 15:21:36,078  INFO [main] CucumberRunner:264 - in loop OTP2
+2022-06-21 15:21:36,193  INFO [main] CucumberRunner:266 - User entered the static otp2 text block as : 1
+2022-06-21 15:21:36,194  INFO [main] CucumberRunner:274 - in loop OTP3
+2022-06-21 15:21:36,289  INFO [main] CucumberRunner:276 - User entered the static otp_3 text block as : 1
+2022-06-21 15:21:39,470  INFO [main] CucumberRunner:284 - User clicked on the Submit button
+2022-06-21 15:21:54,472  INFO [main] CucumberRunner:286 - Waiting for logged in user profile screen!
+2022-06-21 15:23:39,486  INFO [main] CucumberRunner:288 - Successfully logged in with username and password!
+2022-06-21 15:23:39,509  INFO [main] CucumberRunner:25 - <---------------------------------Dashboard Verification-------------------------------->
+2022-06-21 15:23:43,640  INFO [main] CucumberRunner:29 - Verified Header at dashboard
+2022-06-21 15:23:46,721  INFO [main] CucumberRunner:37 - Verified AllPolicies at dashboard
+2022-06-21 15:23:49,826  INFO [main] CucumberRunner:44 - Verified MotorPolicy at dashboard
+2022-06-21 15:23:50,493  INFO [main] CucumberRunner:33 - <---------------------------------Motor Guest Custom No. Flow-------------------------------->
+2022-06-21 15:23:53,604  INFO [main] CucumberRunner:39 - Browser opened sucessfully motor guest flow
+2022-06-21 15:24:05,246  INFO [main] CucumberRunner:47 - User in home page for motor guest flow
+2022-06-21 15:24:13,372  INFO [main] CucumberRunner:56 - User clicked on the product motor
+2022-06-21 15:24:13,373  INFO [main] CucumberRunner:62 - User redirecting to the product page
+2022-06-21 15:24:16,442  INFO [main] CucumberRunner:65 - Verified the header Motor insurance policies from Al Rajhi Takaful at dashboard
